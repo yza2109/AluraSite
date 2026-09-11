@@ -1,0 +1,21 @@
+#banner {
+    width:100%;
+}
+
+.principal{
+    background-color: aliceblue;#accccc;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+ 
+p {
+    text-align: center;
+    front-size: 20px
+}
